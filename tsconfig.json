@@ -11,5 +11,5 @@
     "downlevelIteration": true,
     "types": ["jest","node"]
   },
-  "exclude": ["node_modules", "./build/**/*", "seeds", "migrations"]
+  "exclude": ["node_modules", "./build/**/*", "src/seeds", "src/migrations", "__tests__"]
 }
